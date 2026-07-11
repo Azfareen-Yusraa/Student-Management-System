@@ -1,84 +1,141 @@
 # 🎓 Student Management System
 
-🌐 **Live Demo:** https://azfareen-yusraa.github.io/Student-Management-System/
-
----
-# 🎓 Student Management System
-
-A simple and responsive Student Management System built using HTML, CSS, and JavaScript.
-
-This project demonstrates frontend web development skills including responsive design, DOM manipulation, and clean project organization.
+A modern and responsive **Student Management System** built using **HTML5, CSS3, and JavaScript**. This project demonstrates front-end development concepts including CRUD operations, Local Storage, real-time search, dashboard analytics, data visualization, and CSV export.
 
 ---
 
-## 📸 Project Preview
+## 🚀 Live Demo
 
-![Home Page](screenshots/home-page.png)
-
----
-
-## 🚀 Features
-
-- Modern responsive interface
-- Clean user interface
-- Interactive "Get Started" button
-- Organized project structure
-- Easy to customize
+**Coming Soon (GitHub Pages)**
 
 ---
 
-## 🛠️ Built With
+## 📸 Screenshots
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Student Records
+
+![Student Records](screenshots/student-records.png)
+
+### Features
+
+![Features](screenshots/features.png)
+---
+
+## ✨ Features
+
+* ✅ Add new students
+* ✅ Edit student records
+* ✅ Delete students
+* ✅ Store data using Local Storage
+* ✅ Live Search (Name, Student ID, Course)
+* ✅ Dashboard Statistics
+* ✅ Interactive Course Distribution Pie Chart
+* ✅ Duplicate Student ID Validation
+* ✅ Toast Notifications
+* ✅ Export Student Records to CSV
+* ✅ Responsive Design
+* ✅ Modern UI with Font Awesome Icons
 
 ---
 
-## 📂 Folder Structure
+## 🛠️ Technologies Used
 
-```
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Chart.js
+* Font Awesome
+* Local Storage API
+
+---
+
+## 📂 Project Structure
+
+```text
 Student-Management-System/
-│
-├── assets/
-│   ├── icons/
-│   └── images/
-│
-├── screenshots/
-│   └── home-page.png
 │
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-└── .gitignore
+└── screenshots/
 ```
 
 ---
 
-## 💻 Installation
+## ⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Azfareen-Yusraa/Student-Management-System.git
 ```
 
-Open the project folder.
+Open the project folder and launch **index.html** in your browser, or use **Live Server** in Visual Studio Code.
 
-Run `index.html` in your browser or use Live Server in Visual Studio Code.
+No backend or installation is required.
 
 ---
 
-## 🎯 Future Improvements
+## 📊 Dashboard Features
 
-- Add student registration
-- Student database
-- Search functionality
-- Update student records
-- Delete student records
-- Local Storage support
-- Dark Mode
+The dashboard updates automatically and displays:
+
+* 👨‍🎓 Total Students
+* 📚 Total Courses
+* 🥧 Interactive Course Distribution Pie Chart
+
+---
+
+## 📤 CSV Export
+
+Export all student records into a **CSV** file compatible with:
+
+* Microsoft Excel
+* Google Sheets
+* LibreOffice Calc
+
+---
+
+## 📱 Responsive Design
+
+The application is optimized for:
+
+* 💻 Desktop
+* 📱 Mobile
+* 📟 Tablet
+
+---
+
+## 🎯 Learning Outcomes
+
+This project demonstrates practical knowledge of:
+
+* CRUD Operations
+* DOM Manipulation
+* Event Handling
+* JavaScript Arrays & Objects
+* Local Storage
+* Responsive Web Design
+* Data Visualization with Chart.js
+* File Export (CSV)
+* UI/UX Design Principles
+
+---
+
+## 🔮 Future Improvements
+
+* 🌙 Dark Mode
+* 📷 Student Profile Pictures
+* 🔐 User Authentication
+* 📄 Pagination
+* ↕️ Sorting & Advanced Filters
+* 🗄️ Database Integration (MySQL / MongoDB)
+* ⚙️ Backend with Node.js & Express
 
 ---
 
@@ -86,11 +143,20 @@ Run `index.html` in your browser or use Live Server in Visual Studio Code.
 
 **Yusraa Azfareen**
 
-GitHub:
-https://github.com/Azfareen-Yusraa
+GitHub: https://github.com/Azfareen-Yusraa
+
+Project Repository:
+
+https://github.com/Azfareen-Yusraa/Student-Management-System
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you like this project, please consider giving it a **⭐ Star** on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
