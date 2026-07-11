@@ -16,9 +16,9 @@ A modern and responsive **Student Management System** built using **HTML5, CSS3,
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Student Records
+### Student Record
 
-![Student Records](screenshots/student-records.png)
+![Student Record](screenshots/student-record.png)
 
 ### Features
 
