@@ -1,4 +1,9 @@
 # 🎓 Student Management System
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A modern and responsive **Student Management System** built using **HTML5, CSS3, and JavaScript**. This project demonstrates front-end development concepts including CRUD operations, Local Storage, real-time search, dashboard analytics, data visualization, and CSV export.
 
@@ -6,7 +11,8 @@ A modern and responsive **Student Management System** built using **HTML5, CSS3,
 
 ## 🚀 Live Demo
 
-**Coming Soon (GitHub Pages)**
+🌐 Live Demo:
+https://azfareen-yusraa.github.io/Student-Management-System/
 
 ---
 
