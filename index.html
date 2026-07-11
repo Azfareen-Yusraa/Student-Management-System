@@ -2,29 +2,87 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
     <title>Student Management System</title>
 
     <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
 
-    <header>
+    <div class="container">
 
-        <h1>Student Management System</h1>
+        <header>
 
-        <p>
-            Manage Students Easily and Efficiently
-        </p>
+            <h1>Student Management System</h1>
 
-        <button id="startBtn">
-            Get Started
-        </button>
+            <p>Manage student records quickly and efficiently</p>
 
-    </header>
+        </header>
+
+        <section class="form-card">
+
+            <h2>Add Student</h2>
+
+            <form id="studentForm">
+
+                <input
+                    type="text"
+                    id="name"
+                    placeholder="Student Name"
+                    required>
+
+                <input
+                    type="text"
+                    id="studentId"
+                    placeholder="Student ID"
+                    required>
+
+                <input
+                    type="email"
+                    id="email"
+                    placeholder="Email Address"
+                    required>
+
+                <input
+                    type="text"
+                    id="course"
+                    placeholder="Course"
+                    required>
+
+                <button type="submit">
+
+                    Add Student
+
+                </button>
+
+            </form>
+
+        </section>
+
+        <section class="student-card">
+
+            <h2>Student Records</h2>
+
+            <div id="studentList">
+
+                <p class="empty">
+
+                    No students added yet.
+
+                </p>
+
+            </div>
+
+        </section>
+
+    </div>
 
     <script src="script.js"></script>
 
