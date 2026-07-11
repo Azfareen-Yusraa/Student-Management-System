@@ -1,5 +1,10 @@
 # 🎓 Student Management System
 
+🌐 **Live Demo:** https://azfareen-yusraa.github.io/Student-Management-System/
+
+---
+# 🎓 Student Management System
+
 A simple and responsive Student Management System built using HTML, CSS, and JavaScript.
 
 This project demonstrates frontend web development skills including responsive design, DOM manipulation, and clean project organization.
